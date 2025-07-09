@@ -19,6 +19,9 @@ In Future updates, I will figure some cool upgrades to this app called **Primebo
 In meantime, enjoy with Primebot. The app is available in MacOs and only in the UAE
 
 How to Use:
+
+1. Click on PrimeBot_download
+2. Click on downloads
 1. Unzip the file
 2. Double-click PrimeBot to launch
 3. No installation required
