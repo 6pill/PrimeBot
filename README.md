@@ -16,7 +16,7 @@ Text Input, and
 Enter key or Send Button to send your response
 
 In Future updates, I will figure some cool upgrades to this app called **Primebot**.
-In meantime, enjoy with Primebot. The app is available in MacOs and Windows and only in the UAE
+In meantime, enjoy with Primebot. The app is available in MacOs and only in the UAE
 
 How to Use:
 1. Unzip the file
