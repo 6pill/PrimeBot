@@ -7,7 +7,7 @@ It is a free AI assistant that can check the weather, news, can even answer ques
 It is coded in Pycharm, powered by MS copliot, and knowledge based on wikipedia and google seacrh engine.
 
 It only can answer knowledge-based questions
-It is only avabile in the UAE. Because of the weather data is based on UAE
+It is only available in the UAE. Because of the weather data is based on UAE
 But don't worry, future updates will make the app come to a region.
 
 Features:
