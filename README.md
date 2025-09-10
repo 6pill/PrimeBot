@@ -2,22 +2,20 @@
 
 Welcome to PrimeBot!
 
-It is a free AI assistant that can check the weather, news, can even answer question
+It is a free AI assistant that can  answer questions 
 
-It is coded in Pycharm, powered by MS copliot, and knowledge based on wikipedia and google seacrh engine.
-
+It is coded in Base44
 It only can answer knowledge-based questions
-It is only available in the UAE. Because of the weather data is based on UAE
-But don't worry, future updates will make the app come to a region.
+
 
 Features:
 Goolge Log-in,
 Text Input, and
 Enter key or Send Button to send your response
+Microphone option
 
 In Future updates, I will figure some cool upgrades to this app called **Primebot**.
-In meantime, enjoy with Primebot. The app is available in MacOs and only in the UAE
-
+In meantime, enjoy with Primebot. The app is available in MacOs and Android 
 How to Use:
 
 1. Click on PrimeBot_download
