@@ -9,7 +9,7 @@ It only can answer knowledge-based questions
 
 
 Features:
-Goolge Log-in,
+Google Log-in,
 Text Input, and
 Enter key or Send Button to send your response
 Microphone option
